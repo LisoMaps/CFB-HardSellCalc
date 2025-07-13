@@ -19,4 +19,5 @@ Grade number values (as per the [video](https://www.youtube.com/watch?v=fJ1jxkcj
 
     
 <b>NOTE:</b>
-_Atleast_ the first letter grade must be populated for the tool to work.
+- _Atleast_ the first letter grade must be populated for the tool to work.
+- Refresh the page to set inputs back to default/reset the tool.
