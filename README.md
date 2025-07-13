@@ -1,5 +1,5 @@
 # CFB26 Hard Sell Calculator Web Tool
-This web tool was inspired by the [@MaxPlaysCFB](https://www.youtube.com/watch?v=fJ1jxkcjMoQ) YouTube video detailing when to hard sell a recruit or when to send the house. The tool adds up the total points according to the input grades and returns a message of either "HARD SELL!", "GRAY AREA! (Sell at your own risk)", or "SEND THE HOUSE".
+This web tool was inspired by the [@MaxPlaysCFB](https://www.youtube.com/watch?v=fJ1jxkcjMoQ) YouTube video detailing when to hard/soft sell a recruit or when to send the house. The tool adds up the total points according to the input grades and returns a message of either "HARD SELL!", "GRAY AREA! (Sell at your own risk)", or "SEND THE HOUSE".
 
 Grade number values (as per the [video](https://www.youtube.com/watch?v=fJ1jxkcjMoQ)):
 
